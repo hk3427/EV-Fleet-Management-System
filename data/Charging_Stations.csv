@@ -1,0 +1,14 @@
+code,location,Status,vehicle_type
+1,tenri,1,BEV
+2,golub,1,FCEV
+3,trat,1,HEV
+4,rengo,1,BEV
+5,Huangascar,0,FCEV
+6,datun,1,BEV
+7,new york,0,PHEV
+8,Valence,1,BEV
+9,Alebtong,1,FCEV
+10,Trat,1,HEV
+11,Ryazan,1,BEV
+12,Fuwah,0,FCEV
+13,Morazan,1,BEV
